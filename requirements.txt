@@ -1,0 +1,13 @@
+google-play-scraper
+pandas
+numpy
+scikit-learn
+joblib
+fastapi
+uvicorn[standard]
+matplotlib
+openpyxl
+python-multipart
+Sastrawi
+nltk
+tqdm
